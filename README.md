@@ -1,5 +1,5 @@
-# LinuxAssembly
-Linux Assembly Applications
+# LinuxAArch64Assembly
+Linux Assembly Applications for the AArch64 architecture.
 
 ## Assemble and link instructions
 ```
